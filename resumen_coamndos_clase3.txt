@@ -116,6 +116,8 @@ Que pasa cuando hay un conflicto?
 
 -Se guarda el archivo y se termina el merge (agregando a staging y haciendo un commit)
 
+- git remote add origin <url>
+
 
 
 
